@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+<product>
+<ID>0</ID>
+<Name>Laptop</Name>
+<Category>Electronics</Category>
+<Price>1200.0</Price>
+</product>
+<product>
+<ID>1</ID>
+<Name>Laptop e</Name>
+<Category>Electronics</Category>
+<Price>1200.0</Price>
+</product>
+<product>
+<ID>2</ID>
+<Name>Laptop d</Name>
+<Category>Electronics</Category>
+<Price>1200.0</Price>
+</product>
+<product>
+<ID>3</ID>
+<Name>Portátil</Name>
+<Category>Pc</Category>
+<Price>567.0</Price>
+</product>
+<product>
+<ID>4</ID>
+<Name>cambio</Name>
+<Category>prueba</Category>
+<Price>45.0</Price>
+</product>
+</products>
